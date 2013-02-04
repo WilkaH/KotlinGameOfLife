@@ -25,5 +25,6 @@ fun project() {
         classpath += "D:/My Documents/IntelliJ IDEA/KotlinGameOfLife/src"
         // External annotations
         annotationsPath += "C:/Users/Wilka.Hudson/.IdeaIC12/config/plugins/Kotlin/kotlinc/lib/kotlin-jdk-annotations.jar"
+        annotationsPath += "C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 12.0.3/lib/jdkAnnotations.jar"
     }
 }
